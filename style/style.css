@@ -1,0 +1,43 @@
+#usersTable{
+  display: flex;
+  flex-direction: column-reverse;
+}
+.link {
+  width: 100px;
+  height: 50px;
+  background-color: grey;
+  
+}
+
+table, thead, tbody, tr {
+  width: 100vw;
+}
+
+th{
+  padding: 10px;
+  background-color: yellow;
+}
+
+td{
+  padding: 10px;
+  background-color: violet;
+  text-align: center;
+}
+.deleteBtn {
+  width: 50px;
+  height: 20px;
+  background-color: red;
+}
+
+.addNewUserBtn {
+  width: 100px;
+  height: 50px;
+  background-color: green;
+  margin: 2px;
+}
+input{
+  border: 2px solid green;
+}
+.empty {
+  border: 2px solid red;
+}
