@@ -11,7 +11,7 @@ const config1 = {
     {title: 'Bithday', value: 'birthday'},
     {title: 'Avatar', value: 'avatar'}   
   ],
-  apiUrl: "http://mock-api.shpp.me/ahudzovskyi/users"
+  apiUrl: "https://mock-api.shpp.me/ahudzovskyi/users"
 };
 
 /* Main function creates table according to values from config and data variables */
